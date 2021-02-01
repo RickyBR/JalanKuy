@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JalanKuy</string>
+    <string name="splash_screen">Wisata Jadi Lebih Asyik!</string>
+    <string name="getstartedtext">Discover
+        \nThe Beauty
+         \nOf Earth</string>
+    <string name="Signin">Sign In</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email</string>
+    <string name="continue_label">Continue</string>
+    <string name="name_label">Name</string>
+    <string name="bio_label">Bio</string>
+    <string name="explore_label">Explore Now</string>
+
+</resources>

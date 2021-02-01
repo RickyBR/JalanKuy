@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353522297292",
+    "project_id": "jalankuy-c2252",
+    "storage_bucket": "jalankuy-c2252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353522297292:android:3633415ca7a1413521d569",
+        "android_client_info": {
+          "package_name": "com.example.jalankuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353522297292-pma13e5b9rj269gb64klun9qrjrn7938.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdmTNIcm391nV9DHruamLQBuQbaq-zkeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353522297292-pma13e5b9rj269gb64klun9qrjrn7938.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
